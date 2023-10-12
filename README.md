@@ -1,5 +1,5 @@
 # ENS-Migration
-Install Node.js, Docker.
+Install Node.js, Docker , Git.
 
 First of All Install and setup Squid CLI in CMD:-
   npm i -g @subsquid/cli@latest
